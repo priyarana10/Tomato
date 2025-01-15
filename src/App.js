@@ -14,6 +14,7 @@ function App() {
   <City></City>
   <Grocery/>
   <Footer></Footer>
+
   </>
   );
 }

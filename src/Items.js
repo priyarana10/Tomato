@@ -3,7 +3,7 @@ import React from 'react'
 const Items = () => {
   return (
     <>
-    <div className="limes">
+    <div className="limes1">
     <h1 className="headingline">Order our best food option</h1>
     <div className="buttn">
     <button className="left">
@@ -14,7 +14,7 @@ const Items = () => {
     </button>
     </div>
     </div>
-    <div className=" items">
+    <div class=" items">
         <img src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/PC_Mweb/Paratha.png" alt="" className="photos" />
         <img src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/PC_Mweb/Chole%20Bhature.png" alt="" className="photos" />
         <img src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/PC_Mweb/Dosa.png" alt="" className="photos" />
@@ -34,7 +34,7 @@ const Items = () => {
         <img src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/PC_Mweb/Poha-1.png" alt="" className="photos" />
         <img src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/PC_Mweb/Tea.png" alt="" className="photos" />
         <img src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/PC_Mweb/Juice.png" alt="" className="photos" />
-        <img src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/PC_Mweb/Lassi.png" alt="" className="photos" /> */}
+        <img src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/PC_Mweb/Lassi.png" alt="" className="photos" />  */}
        
         
     </div>

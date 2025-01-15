@@ -3,8 +3,8 @@ import React from 'react'
 const Footer = () => {
   return (
     <>
-    <div className="container">
-        <div className="twice">
+    <div className="contr">
+        <div className=" container twice">
         <div className="once">
             <img src="https://media-assets.swiggy.com/portal/testing/seo-home/Group.svg" alt="" />
             <p className="par">© 2024 Swiggy Limited</p>
